@@ -1,0 +1,7 @@
+1. Install app
+2. Open app
+3. Create account
+4. Save a number
+5. Open a chat
+6. Add text
+7. Click on send
