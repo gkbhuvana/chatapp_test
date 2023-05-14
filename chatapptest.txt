@@ -6,4 +6,5 @@
 6. Add text with images
 7. Click on send
 8. Once sent try to delete the msg
-And delete the msg to everyone
+9. And delete the msg to everyone
+10. Click on video call
