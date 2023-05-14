@@ -3,5 +3,5 @@
 3. Create account
 4. Save a number
 5. Open a chat
-6. Add text
+6. Add text with images
 7. Click on send
